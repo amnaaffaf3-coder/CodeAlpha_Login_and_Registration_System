@@ -30,7 +30,7 @@ This project is a beginner-friendly C++ console application developed as part of
 ## Screenshots
 
 ### Registration Screen
-![Registration](Registration .png)
+![Registration](Registration%20.png)
 
 ### Login Screen
 ![Login](Login.png)
