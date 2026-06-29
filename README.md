@@ -29,14 +29,14 @@ This project is a beginner-friendly C++ console application developed as part of
 
 ## Screenshots
 
+### Program Running
+![Program Running](Program%20Running.png)
+
 ### Registration Screen
 ![Registration](Registration%20.png)
 
 ### Login Screen
 ![Login](Login.png)
-
-### Program Running
-![Program Running](Program%20Running.png)
 
 ### Program Output
 ![Program Ending](Program%20Ending.png)
